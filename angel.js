@@ -22,7 +22,7 @@ for (var k in interfaces) {
 
 var HOST = '134.209.76.81';
 var PORT = 1008;
-server.listen(0008);
+server.listen(5008);
 var arr;
 var arr1;
 var global_imei="";
